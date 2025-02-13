@@ -3,3 +3,4 @@ numpy==1.26.4
 opencv-python-headless==4.9.0.80
 pybind11>=2.12
 Telethon==1.30.3
+python-decouple==3.8
